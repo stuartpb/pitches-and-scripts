@@ -18,9 +18,11 @@ On top of that, I realized that the world of *Callister* is *already* a setting 
 
 (This *also* calls out to one of the thoughts I've had about the episode *Arkangel*, that the most implausible speculative concept was that of a defunct company's network-connected product continuing to function after the startup that produced it inevitably closes its doors. Imagine if our culture of best-effort support - only providing updates for phones older than two years if it's not even *slightly* harder for them to do - were extended to *people*.)
 
-I recognize that episodes of Black Mirror should stand alone, so this episode wouldn't have any *direct* reference to the plot of *USS Callister* (it *could* even be a prequel, though if you wanted the same child actor who played Tommy to star / cameo, that might not be feasible).
+I recognize that episodes of Black Mirror should stand alone, so this episode wouldn't have any *direct* reference to the plot of *USS Callister* (it would probably be like Arkangel, showing the early and later years of Tommy's life, making it, in a way, both prequel *and* sequel - the actor who played Tommy could resume the role for a cameo as Tommy ages).
 
 (On the subject of withdrawing support for human beings after they've aged out of their mandated support window: think about how we *already* have this attitude toward child stars, eg. Sarah Lynn on *BoJack Horseman*.)
+
+I recognize that, by reusing the character of Tommy and showing him in more (not always flattering) detail, it has the potential to rob the Tommy scenes in *USS Callister* of their emotional punch on (re)watching for a shared audience. By the same token, though, I believe that supplementarily fleshing Tommy's character out in three dimensions has the potential to make his original scenes *more* heartbreaking: it's all in the execution.
 
 The working title's a somewhat-unavoidable homage to *We Need To Talk About Kevin*, one that also brings to mind "let's talk turkey" and the idea of a sales pitch around the designer crafting of your children.
 
