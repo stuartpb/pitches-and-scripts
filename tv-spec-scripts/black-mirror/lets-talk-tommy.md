@@ -1,4 +1,4 @@
-# Let's Talk Tommy (working title)
+# Let's Talk Tommy
 
 Okay, so, the origins of this idea lie in this kind of recurring nightmare / hallucination I get sometimes, about the chromosones of my sperm being data directly compiled by my subconscious. This fear compounds with one of my other (normally largely rational) fears, that of shipping code with a design flaw that can't be patched for reasons of backward compatibility (like the origins of JavaScript - [reason #5 that Computer Glitches Won't Go Away Ever][Cracked article]).
 
