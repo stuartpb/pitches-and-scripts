@@ -12,8 +12,9 @@ After waking up in a cold sweat with the imagery of this fresh in my mind this m
 [EW interview]: http://ew.com/tv/2018/01/04/jimmi-simpson-black-mirror-character-theory/
 [This Be the Verse]: https://www.poetryfoundation.org/poems/48419/this-be-the-verse
 
-It all fell into place when I thought about that lollipop Tommy had in *Callister*, and a story that my mom revealed to me as a teenager (after telling her about the episode of South Park where Kyle's mom has her play "ookie mouth" to catch Kenny's chicken pox) about how she had me lick the lollipop of another kid who had chicken pox. That image made me think of Tommy as a [Gattaca Baby][Designer Babies], who'd be given a lollipop to introduce CRISPR/Cas9 viral DNA rewriting "antibodies" to resolve one of the persistent ethical qualms people have had with the Gattaca concept (that it's inhumane to craft children whose DNA can become obsolete).
+It all fell into place when I thought about that lollipop Tommy had in *Callister*, and a story that my mom revealed to me as a teenager (after telling her about the episode of South Park where Kyle's mom has him play "[Ookie Mouth][]" to catch Kenny's chicken pox) about how she had me lick the lollipop of another kid who had chicken pox. That image made me think of Tommy as a [Gattaca Baby][Designer Babies], who'd be given a lollipop to introduce CRISPR/Cas9 viral DNA rewriting "antibodies" to resolve one of the persistent ethical qualms people have had with the Gattaca concept (that it's inhumane to craft children whose DNA can become obsolete).
 
+[Ookie Mouth]: http://southpark.cc.com/clips/150660/ookie-mouth
 [Designer Babies]: http://tvtropes.org/pmwiki/pmwiki.php/Main/DesignerBabies?from=Main.GattacaBabies
 
 On top of that, I realized that the world of *Callister* is *already* a setting where the lines between DNA and consciousness have been blurred, and so it would make a *perfect* host for horrors like a scene where fertility specialists analyze your DNA for known regressions introduced in previous patches.
