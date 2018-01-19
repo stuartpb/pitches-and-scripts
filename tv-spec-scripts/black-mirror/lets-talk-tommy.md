@@ -29,9 +29,7 @@ I recognize that, by reusing the character of Tommy and showing him in more (not
 
 The working title's a somewhat-unavoidable homage to *We Need To Talk About Kevin*, one that also brings to mind "let's talk turkey" and the idea of a sales pitch around the designer crafting of your children.
 
-## Plot overview
-
-*(This is just an off-the-cuff synthesis of all the elements I just described; I'm not married to any particular formulation.)*
+## Treatment
 
 We start out by seeing Walton getting upsold on perks for Tommy's synthesized conception by the gene-technician/salesperson who lands prospective customer-parents at the leading-name designer baby startup of the time.
 
