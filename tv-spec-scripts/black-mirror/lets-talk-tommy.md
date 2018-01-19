@@ -5,9 +5,10 @@ Okay, so, the origins of this idea lie in this kind of recurring nightmare / hal
 After waking up in a cold sweat with the imagery of this fresh in my mind this morning, I also recalled a couple of other thoughts I've had percolating in my head, one based on the new season that premiered December 29 and one I've thought would make an interesting Black Mirror theme for years:
 
 - I want to revisit the characters from *USS Callister* to hint at how they all turned out, even if it's just a background reference in a news crawl. (I also just want to see Jimmi Simpson's Walton more, [especially considering how much thought he puts into his performance][EW interview].)
-- They say that familiarity breeds contempt, and nothing seems to breed more of each than the things we recognize in ourselves emerging in others. The *real* nightmare would come if a service let us *extract* those undesirable qualities in ourselves for *direct antagonism*.
+- They say that familiarity breeds contempt, and nothing seems to breed more of each than the things we recognize in ourselves emerging in others. The *real* nightmare would come if a service let us *extract* those undesirable qualities in ourselves for *direct antagonism*. (And who's to say that this isn't [essentially what parenting is already?][This Be the Verse])
 
 [EW interview]: http://ew.com/tv/2018/01/04/jimmi-simpson-black-mirror-character-theory/
+[This Be the Verse]: https://www.poetryfoundation.org/poems/48419/this-be-the-verse
 
 It all fell into place when I thought about that lollipop Tommy had in *Callister*, and a story that my mom revealed to me as a teenager (after telling her about the episode of South Park where Kyle's mom has her play "ookie mouth" to catch Kenny's chicken pox) about how she had me lick the lollipop of another kid who had chicken pox. That image made me think of Tommy as a [Gattaca Baby][Designer Babies], who'd be given a lollipop to introduce CRISPR/Cas9 viral DNA rewriting "antibodies" to resolve one of the persistent ethical qualms people have had with the Gattaca concept (that it's inhumane to craft children whose DNA can become obsolete).
 
