@@ -1,6 +1,8 @@
 # Let's Talk Tommy (working title)
 
-Okay, so, the origins of this idea lie in this kind of recurring nightmare / hallucination I get sometimes, about the chromosones of my sperm being data directly compiled by my subconscious. This fear compounds with one of my other (normally largely rational) fears, that of shipping code with a design flaw that can't be patched for reasons of backward compatibility (like the origins of JavaScript).
+Okay, so, the origins of this idea lie in this kind of recurring nightmare / hallucination I get sometimes, about the chromosones of my sperm being data directly compiled by my subconscious. This fear compounds with one of my other (normally largely rational) fears, that of shipping code with a design flaw that can't be patched for reasons of backward compatibility (like the origins of JavaScript - [reason #5 that Computer Glitches Won't Go Away Ever][Cracked article]).
+
+[Cracked article]: http://www.cracked.com/article_18808_7-reasons-computer-glitches-wont-go-away-ever.html
 
 After waking up in a cold sweat with the imagery of this fresh in my mind this morning, I also recalled a couple of other thoughts I've had percolating in my head, one based on the new season that premiered December 29 and one I've thought would make an interesting Black Mirror theme for years:
 
