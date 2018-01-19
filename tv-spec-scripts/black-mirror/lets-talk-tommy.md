@@ -32,4 +32,20 @@ The working title's a somewhat-unavoidable homage to *We Need To Talk About Kevi
 
 *(This is just an off-the-cuff synthesis of all the elements I just described; I'm not married to any particular formulation.)*
 
-First draft to come.
+We start out by seeing Walton getting upsold on perks for Tommy's synthesized conception by the gene-technician/salesperson who lands prospective customer-parents at the leading-name designer baby startup of the time.
+
+*(I should probably note here that I've yet to actually see Gattaca; apologies if any of the gags here were already done there.)*
+
+My original impulse was to have Walton participating in the picking process with his wife, leading to the scenario where the features Tommy inherited from her become *extra* bittersweet after Walton's inevitable divorce for infidelity, knowing that he paid a premium for Tommy to *specifically* have his mother's eyes - "I should've taken the eyes, I could have let her have the lips, or the earlobes".
+
+A second thought is that the company could be giving Walton the opportunity to be a single dad (because chicks dig kids), by having Tommy's mother be a composite of fifty generations of virtually-iterated supermodels. (This gives Walton a neat arc, initially wanting Tommy for vain and superficial reasons.)
+
+Tommy's infancy is remarkably brief; as a feature of his genetic crafting, he matures to "cute kid" status at about five times the rate of a non-GMO child, so you can spend less time on the "terrible twos" and more time buidling heartwarming, day-at-the-beach Hallmark moments.
+
+In another feature of his bespoke genetics, Tommy is also very precocious. A pivotal moment in Walton's relationship with Tommy is when, one day, picking Tommy up from daycare (where kids are given [algorithmically-determined surrealist entertainment][Something is wrong on the internet] to pacify them), Walton vents about his day, and Tommy responds with a simple, yet deep insight into how the real troubles that are plaguing Walton lie not within the actions of the people around him, but in Walton's perception of them. *(If only Robert Daly had someone to give him the same insight...)* Walton stops seeing Tommy as a *prop*, and starts seeing him as a *person*, a missing attachment in his own personal development.
+
+[Something is wrong on the internet]: https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2
+
+However, Tommy's prone to problems - glitches, corner-cases, early-adopter kinks. The nature of these problems can range from allergies ("How is a *baby* allergic to *milk*?" "Oh, we never really tested it, we kind of expected you'd just feed the baby with the Soylent packets you signed up for." "I cancelled that subscription like a week after you stopped the free trial!"), to seizures ("Look, we understand that this little episode was upsetting, but we assure you, even if anything *had* happened to Tommy, we'd be able to replace him with an *upgraded* child, provided at *absolutely* no cost to y"-*sound of getting punched in the face*), to uncontrollable tics. One day, Walton simply asks Tommy "How was your day?", and eight-year-old Tommy starts responding "my day was the day of all days to have a day the day today was quite a day was today indeed day day day a day-day adage day by day..." Walton has to call the child-rearing company's tech-support line, where they give him the boutique-baby equivalent of "turning it off and back on again": "pinch his nose and cover his mouth until he passes out; he should wake up in about thirty seconds, he'll be fine".
+
+*(end of Act 1? more to come)*
