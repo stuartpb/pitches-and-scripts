@@ -1,5 +1,5 @@
-# Pitches and Scripts by Stuart P. Bentley
+# This repo has been deprecated
 
-So, the other day in Slack, I made this joke about how this metaphor I just described would work well as a gag on Silicon Valley, and then Dan Hiester started talking about how that's how Ronald D. Moore got started as a writer for *Star Trek: The Next Generation*, and I've kind of been saving up bits and pieces of spec scripts for years under the assumption that nobody'd want to read them, and so...
+The content that used to live here has been moved into my Notes:
 
-I made this repo initially to collect the little bits and pieces of TV show scenes I come up with here and there, but then I realized I also had these ideas for *movies* and stuff that I'd been putting in their *own* bare repos, and I figured [I already have enough repos with just a summary and no content](https://github.com/stuartpb/collected-writings), so I decided to incorporate *them* into this repo as *well* by broadening the scope a bit. (Framing this as a repo for *pitches* as well as scripts makes it a little easier to explain what I'm going for with a script, so I don't have to worry about getting the whole script right to convey the high-level idea.)
+https://notes.stuartpb.com/content/b297a6f8-5646-4ce1-9be1-d7ed6056a513.html
